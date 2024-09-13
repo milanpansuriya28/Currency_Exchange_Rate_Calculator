@@ -53,7 +53,7 @@ Feel free to contribute by submitting pull requests or opening issues. Contribut
 
 ## Contact
 
-For any questions or suggestions, please contact me at [your-email@example.com].
+For any questions or suggestions, please contact me at [milanpansuriya2828@gmail.com].
 
 ---
 
