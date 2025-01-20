@@ -43,10 +43,6 @@ To get started with the project, follow these steps:
 
 This project uses the [ExchangeRate API](https://v6.exchangerate-api.com/v6/eae5ddd256c4d6e94e12b4c3/latest/USD) to fetch the latest exchange rates. 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contributing
 
 Feel free to contribute by submitting pull requests or opening issues. Contributions are welcome!
